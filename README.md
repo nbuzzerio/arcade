@@ -18,11 +18,7 @@ npm install
 
 ## Usage
 
-To use the project, you will need an API key from RAWG.io. Place your API key in a `.env` file in the root directory:
-
 ```
-API_KEY=[API KEY]
-API_URL=https://api.rawg.io/api
 PORT=[PORT NUMBER]
 ```
 
